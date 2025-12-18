@@ -40,4 +40,5 @@ npm create vite@latest pattern-grid -- --template react-ts
 cd pattern-grid
 npm install
 npm run dev
-Replace src/App.tsx with the code in the canvas.
+```
+## Replace src/App.tsx with the code in the canvas.
